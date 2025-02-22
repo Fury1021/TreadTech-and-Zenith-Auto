@@ -1,0 +1,10 @@
+.navbar-brand {
+    text-decoration: none;
+    color: #333;
+}
+
+.navbar-brand img {
+    max-width: 100px;
+    height: auto;
+    vertical-align: middle;
+}
